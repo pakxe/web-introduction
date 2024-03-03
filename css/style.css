@@ -40,7 +40,7 @@ body {
   margin-right: auto;
   left: 0;
   right: 0;
-  bottom: -100px;
+  bottom: -150px;
 }
 
 .talking {
@@ -98,7 +98,7 @@ body {
 .letterbox {
   padding: 50px;
   display: block;
-  height: calc(100vh - 77px);
+  height: calc(100vh - 350px);
   width: 50%;
   border-radius: 30px;
   background-color: #e1d2ca;
